@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guptanike/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/guptanike/Leetcode_Questions/tree/master/0007-reverse-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
