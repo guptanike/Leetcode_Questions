@@ -1,5 +1,5 @@
 class Solution {
-    public int expand(String s, int left, int right) {
+    public static int expand (String s, int left, int right) {
         while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
             left--;
             right++;
