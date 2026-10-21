@@ -9,6 +9,6 @@ class Solution {
             rev = rev * 10 + temp % 10;
             temp /= 10;
         }
-        return x == rev;
+        return rev == x;
     }
 }
