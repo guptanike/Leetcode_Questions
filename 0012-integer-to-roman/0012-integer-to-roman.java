@@ -5,8 +5,8 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < values.length; i++) {
             while (num >= values[i]) {
-                sb.append(symbols[i]);
                 num -= values[i];
+                sb.append(symbols[i]);
             }
         }
         return sb.toString();
