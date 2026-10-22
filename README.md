@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/guptanike/Leetcode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/guptanike/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/guptanike/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
+| [0051-n-queens](https://github.com/guptanike/Leetcode_Questions/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guptanike/Leetcode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/guptanike/Leetcode_Questions/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/guptanike/Leetcode_Questions/tree/master/0386-lexicographical-numbers) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/guptanike/Leetcode_Questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
