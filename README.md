@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guptanike/Leetcode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [2409-count-days-spent-together](https://github.com/guptanike/Leetcode_Questions/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/guptanike/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
 ## String Matching
 |  |
 | ------- |
