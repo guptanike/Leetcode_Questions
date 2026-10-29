@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guptanike/Leetcode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/guptanike/Leetcode_Questions/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/guptanike/Leetcode_Questions/tree/master/0131-palindrome-partitioning) |
 | [2409-count-days-spent-together](https://github.com/guptanike/Leetcode_Questions/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
