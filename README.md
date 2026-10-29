@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guptanike/Leetcode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/guptanike/Leetcode_Questions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/guptanike/Leetcode_Questions/tree/master/0043-multiply-strings) |
 | [0131-palindrome-partitioning](https://github.com/guptanike/Leetcode_Questions/tree/master/0131-palindrome-partitioning) |
 | [2409-count-days-spent-together](https://github.com/guptanike/Leetcode_Questions/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/guptanike/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/guptanike/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/guptanike/Leetcode_Questions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/guptanike/Leetcode_Questions/tree/master/0043-multiply-strings) |
 | [2409-count-days-spent-together](https://github.com/guptanike/Leetcode_Questions/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/guptanike/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/guptanike/Leetcode_Questions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
