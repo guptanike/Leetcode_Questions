@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/guptanike/Leetcode_Questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/guptanike/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/guptanike/Leetcode_Questions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/guptanike/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/guptanike/Leetcode_Questions/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/guptanike/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/guptanike/Leetcode_Questions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/guptanike/Leetcode_Questions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/guptanike/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [2409-count-days-spent-together](https://github.com/guptanike/Leetcode_Questions/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/guptanike/Leetcode_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/guptanike/Leetcode_Questions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/guptanike/Leetcode_Questions/tree/master/0048-rotate-image) |
 ## Dancing Links
 |  |
 | ------- |
