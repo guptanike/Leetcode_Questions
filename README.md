@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/guptanike/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/guptanike/Leetcode_Questions/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/guptanike/Leetcode_Questions/tree/master/0131-palindrome-partitioning) |
+| [0647-palindromic-substrings](https://github.com/guptanike/Leetcode_Questions/tree/master/0647-palindromic-substrings) |
 | [2409-count-days-spent-together](https://github.com/guptanike/Leetcode_Questions/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/guptanike/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/guptanike/Leetcode_Questions/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/guptanike/Leetcode_Questions/tree/master/0131-palindrome-partitioning) |
+| [0647-palindromic-substrings](https://github.com/guptanike/Leetcode_Questions/tree/master/0647-palindromic-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/guptanike/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guptanike/Leetcode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/guptanike/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
+| [0647-palindromic-substrings](https://github.com/guptanike/Leetcode_Questions/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
 | ------- |
