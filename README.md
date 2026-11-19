@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/guptanike/Leetcode_Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/guptanike/Leetcode_Questions/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/guptanike/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/guptanike/Leetcode_Questions/tree/master/0085-maximal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/guptanike/Leetcode_Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/guptanike/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/guptanike/Leetcode_Questions/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/guptanike/Leetcode_Questions/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/guptanike/Leetcode_Questions/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/guptanike/Leetcode_Questions/tree/master/0647-palindromic-substrings) |
 ## Backtracking
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/guptanike/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/guptanike/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/guptanike/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/guptanike/Leetcode_Questions/tree/master/0085-maximal-rectangle) |
 ## String Matching
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/guptanike/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/guptanike/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/guptanike/Leetcode_Questions/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/guptanike/Leetcode_Questions/tree/master/0085-maximal-rectangle) |
 ## Dancing Links
 |  |
 | ------- |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/guptanike/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/guptanike/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/guptanike/Leetcode_Questions/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
